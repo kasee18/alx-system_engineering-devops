@@ -1,0 +1,3 @@
+#!/bin/bash
+chmo_R +x .
+
